@@ -4,7 +4,7 @@ bob@fainor.com.br
 
 Neste repositório contém:
 
-UML(Astah).
-MODELO CONCEITUAL(Br Modelo v3.0).
-MODELO LÓGICO (Br Modelo v3.0).
+UML(PNG).
+MODELO CONCEITUAL(PNG).
+MODELO LÓGICO (PNG).
 IMPLEMENTAÇÃO EM JAVA (NETBEANS).
